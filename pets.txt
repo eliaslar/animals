@@ -6,3 +6,5 @@ pente
 eksi
 remote epta
 remote okto
+remote ennia
+remote deka
